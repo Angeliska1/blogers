@@ -3,7 +3,7 @@
   It is built with Node.js, Express, and MongoDB.
 
 ## Table of contents
-- [features](#features)
+- [Features](#features)
 - [Tech Stark](#tech-stark)
 - [Folder-Structure](#folder-structure)
 - [Environment Variables](#environment-variables)
@@ -23,7 +23,7 @@
 - Manage users
 - JWT-based security
 
-## Tech Stack
+## Tech Stark
 | Technology | Purpose |
 | ---------- | ------- |
 | Node.js    | Runtime environment |
@@ -32,7 +32,7 @@
 | Mongoose   | ODM (Object Data Modeling) |
 | JWT        | Authentication |
 
-## Folder Structure
+## Folder-Structure
 ```
 MYBLOG/
 |- config/
@@ -67,8 +67,7 @@ cd MYBLOG
 npm install
 ```
 
-```markdown
-## Usage / Running the App
+## Usage 
 
 This project uses **nodemon** so the server automatically restarts when you change your code.
 
@@ -112,7 +111,7 @@ If it works, you should get back a response with user data and a token.
 | DELETE | /api/posts/:id   | Delete a post         |
 ```
 
-### Screenshots
+## Screenshots
 ![API test in Postman](./images/postman%20test.png)
 
 ## Contributing
@@ -129,7 +128,7 @@ This project is licensed under the MIT License – you’re free to use, copy, a
 - Name: Ikeji Angel  
 - GitHub: [Angeliska1](https://github.com/Angeliska1)  
 
-## Acknowledgements / Credits
+## Acknowledgements
 - *My Tutor*
 - *Inspired by Youtube tutors* 
 - *Express.js documentation*  

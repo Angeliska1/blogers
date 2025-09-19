@@ -99,8 +99,6 @@ Body (JSON):
 If it works, you should get back a response with user data and a token.
 
 ## API Endpoints
-```markdown
-## API Endpoints
 | Method | Endpoint         | Description          |
 |--------|----------------- |----------------------|
 | POST   | /api/users       | Register a new user   |
@@ -109,7 +107,6 @@ If it works, you should get back a response with user data and a token.
 | POST   | /api/posts       | Create a new post     |
 | PUT    | /api/posts/:id   | Update a post         |
 | DELETE | /api/posts/:id   | Delete a post         |
-```
 
 ## Screenshots
 ![API test in Postman](./images/postman%20test.png)

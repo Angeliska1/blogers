@@ -109,7 +109,7 @@ If it works, you should get back a response with user data and a token.
 | DELETE | /api/posts/:id   | Delete a post         |
 
 ## Screenshots
-![API test in Postman](./images/postman_test.png)
+![API test in Postman](/images/postman_test.png)
 
 ## Contributing
 1. Fork the repo  
